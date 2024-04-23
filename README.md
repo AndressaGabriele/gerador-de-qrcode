@@ -20,11 +20,12 @@ npm start
 
 ## Estrutura do Projeto
 
-src/
+```src/
 |_ App.css
 |_ App.js
 |_ index.js
 |_ index.css
+```
 
  **App.css**: Arquivo de estilização para o aplicativo.
 - **App.js**: Componente principal que contém a lógica para gerar QR Codes.
