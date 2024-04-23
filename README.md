@@ -20,7 +20,8 @@ npm start
 
 ## Estrutura do Projeto
 
-```src/
+```
+src/
 |_ App.css
 |_ App.js
 |_ index.js
